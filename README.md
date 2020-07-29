@@ -1,16 +1,15 @@
-### Hi there 👋
+### Youtube
+#### https://www.youtube.com/channel/UCjVm5T-UyjUObnGITdMm8Hg
 
-<!--
-**jayhan1109/jayhan1109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Instagram
+#### https://instagram.com/jayhan1109
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Email
+#### jungho1109@gmail.com
+
+### Status
+#### Studying Computer Science at BCIT in Vancouver, Canada
+
+### Skills
+#### HTML, CSS, JS, NODEJS, REACTJS, REDUX, MONGODB
