@@ -1,3 +1,6 @@
+### Medium
+#### https://jayhan1109.medium.com/
+
 ### Youtube
 #### https://www.youtube.com/channel/UCjVm5T-UyjUObnGITdMm8Hg
 
