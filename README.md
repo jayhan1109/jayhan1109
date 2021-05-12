@@ -15,7 +15,7 @@
 #### Studying Computer Science at BCIT in Vancouver, Canada
 
 # Skills
-### MOBILE: SWIFT, IOS
-### FRONTEND: HTML, CSS, JS
-### FRAMEWORK: BOOTSTRAP, MATERIAL UI, REACTJS, REDUX
-### BACKEND & DB: NODEJS, MONGODB, MYSQL, FIREBASE
+### MOBILE: Swift, iOS
+### FRONTEND: Html, Css, JS
+### FRAMEWORK: Bootstrap, Material UI, React, Redux
+### BACKEND & DB: NodeJS, MongoDB, Mysql, Firebase
