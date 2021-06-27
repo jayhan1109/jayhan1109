@@ -12,7 +12,7 @@
 #### jungho1109@gmail.com
 
 ### Status
-#### Studying Computer Science at BCIT in Vancouver, Canada
+#### Graduated Computer Science at BCIT in Vancouver, Canada
 
 # Skills
 ### MOBILE: Swift, iOS
