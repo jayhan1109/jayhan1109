@@ -1,21 +1,16 @@
-### Medium
-#### https://jayhan1109.medium.com/
-
-### Youtube
-#### https://www.youtube.com/channel/UCjVm5T-UyjUObnGITdMm8Hg
-
-### Instagram
-#### https://instagram.com/jayhan1109
 
 
 ### Email
 #### jungho1109@gmail.com
 
 ### Status
-#### Graduated Computer Science at BCIT in Vancouver, Canada
+#### Software Engineer at Fortinet
+
+### Youtube
+#### https://www.youtube.com/channel/UCjVm5T-UyjUObnGITdMm8Hg
 
 # Skills
-### MOBILE: Swift, iOS
-### FRONTEND: Html, Css, JS
+### MOBILE: Swift, iOS, Flutter
+### FRONTEND: HTML, CSS, JS
 ### FRAMEWORK: Bootstrap, Material UI, React, Redux, Angular
 ### BACKEND & DB: NodeJS, MongoDB, Mysql, Firebase
