@@ -17,5 +17,5 @@
 # Skills
 ### MOBILE: Swift, iOS
 ### FRONTEND: Html, Css, JS
-### FRAMEWORK: Bootstrap, Material UI, React, Redux
+### FRAMEWORK: Bootstrap, Material UI, React, Redux, Angular
 ### BACKEND & DB: NodeJS, MongoDB, Mysql, Firebase
