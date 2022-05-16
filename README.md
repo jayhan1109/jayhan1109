@@ -11,6 +11,5 @@
 
 # Skills
 ### MOBILE: Swift, iOS, Flutter
-### FRONTEND: HTML, CSS, JS
-### FRAMEWORK: React, Redux, Angular
+### FRONTEND: Typescript, React, Redux, Angular
 ### BACKEND & DB: NodeJS, MongoDB, Mysql, Firebase
