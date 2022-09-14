@@ -4,7 +4,7 @@
 #### jungho1109@gmail.com
 
 ### Status
-#### Software Engineer at Fortinet
+#### Software Engineer at SAP
 
 ### Youtube
 #### https://www.youtube.com/channel/UCjVm5T-UyjUObnGITdMm8Hg
