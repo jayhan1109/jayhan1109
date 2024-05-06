@@ -1,6 +1,6 @@
 ### Software Engineer at **_SAP_**
 
-### https://www.linkedin.com/in/jayhan1109/
+### https://www.linkedin.com/in/jayhan1109
 
 ### jungho1109@gmail.com
 
