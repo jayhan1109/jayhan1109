@@ -1,15 +1,6 @@
 
+### jungho1109@gmail.com
 
-### Email
-#### jungho1109@gmail.com
+### Software Engineer at **_SAP_**
 
-### Status
-#### Software Engineer at SAP
-
-### Youtube
-#### https://www.youtube.com/channel/UCjVm5T-UyjUObnGITdMm8Hg
-
-# Skills
-### MOBILE: Swift, iOS, Flutter
-### FRONTEND: Typescript, React, Redux, Angular
-### BACKEND & DB: NodeJS, MongoDB, Mysql, Firebase
+![LeetCode Stats](https://leetcard.jacoblin.cool/jungho1109?theme=dark&font=Baloo%20Da%202&ext=heatmap)
